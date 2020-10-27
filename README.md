@@ -1,4 +1,4 @@
-# Examplo de app usando styled-components com NextJs.
+# Exemplo de app usando styled-components com NextJs.
 
 Site de teste com apenas uma Page usando Styled-Components.
 
